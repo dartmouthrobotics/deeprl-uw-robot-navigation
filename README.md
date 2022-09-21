@@ -15,6 +15,6 @@ If you use this code in an academic work, please cite:
 
 ## Repository structure
 
-`Robotics_Navigation` contains the code for the Deep RL approach.
+`Robotics_Navigation` contains the code for the Deep RL approach that we wrote.
 
-`Optically-Realistic-Water` contains the code for the Unity simulation of realistic underwater scenes.
+[`Optically-Realistic-Water`](https://github.com/muckSponge/Optically-Realistic-Water) contains the code for the Unity simulation of realistic underwater scenes that was used for generating realistic environments in our project.
