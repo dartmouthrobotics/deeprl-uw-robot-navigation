@@ -1,0 +1,6 @@
+[submodule "Optically-Realistic-Water"]
+	path = Optically-Realistic-Water
+	url = https://github.com/muckSponge/Optically-Realistic-Water
+[submodule "Robotics_Navigation"]
+	path = Robotics_Navigation
+	url = https://github.com/pengzhi1998/Robotics_Navigation.git
